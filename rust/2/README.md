@@ -1,0 +1,5 @@
+Run with:
+
+```
+cargo run
+```
